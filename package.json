@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "node run.js 1000 900 100 10"
+  },
+  "dependencies": {
+    "async": "^2.5.0",
+    "lodash": "^4.17.4",
+    "numeral": "^2.0.6"
+  }
+}
